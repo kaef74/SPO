@@ -5,3 +5,4 @@ document.body.innerHTML = '<h1> Hello JS</h1>'
 // процкий
 >>>>>>> html
 +++++++++ 
+iZMENENYA by myself
